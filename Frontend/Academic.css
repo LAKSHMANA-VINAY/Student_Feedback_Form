@@ -1,0 +1,41 @@
+.form{
+    height: 250px;
+    width: 400px;
+    margin-top: 50px;
+    padding-left: 45px;
+}
+.form input{
+    height: 40px;
+    width:300px;
+    margin-top: 15px;
+    padding-left: 15px;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+input[type="button"]
+{
+    cursor: pointer;
+    background-color: aquamarine;
+    font-weight: bold;
+    color: black;
+}
+
+table{
+    align-items: center;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+caption{
+    caption-side: top;
+    font-weight: bold;
+    color: black;
+    font-size: 20px;
+}
+tr th{
+    border: 1px solid black;
+    text-align: center;
+}
+tbody tr td{
+    border: 1px solid black;
+    text-align: center;
+}
